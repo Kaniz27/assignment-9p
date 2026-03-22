@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "thumbnail": "https://picsum.photos/seed/beauty/800/600",
+    "name": "Glow Beauty Box",
+    "category": "Beauty & Skincare",
+    "price": 29.99,
+    "frequency": "Monthly",
+    "description": "A curated selection of 5-7 premium skincare and makeup products from top brands. Each box is tailored to your skin type and preferences.",
+    "features": ["Full-size products", "Cruelty-free brands", "Personalized selection"]
+  },
+  {
+    "id": "2",
+    "thumbnail": "https://picsum.photos/seed/coffee/800/600",
+    "name": "Brew Master Coffee",
+    "category": "Food & Drink",
+    "price": 24.99,
+    "frequency": "Monthly",
+    "description": "Freshly roasted specialty coffee beans from around the world. Discover unique flavor profiles and brewing tips every month.",
+    "features": ["Whole bean or ground", "Single-origin beans", "Brewing guide included"]
+  },
+  {
+    "id": "3",
+    "thumbnail": "https://picsum.photos/seed/fitness/800/600",
+    "name": "FitLife Essentials",
+    "category": "Health & Fitness",
+    "price": 39.99,
+    "frequency": "Monthly",
+    "description": "Everything you need to stay motivated and healthy. Includes workout gear, healthy snacks, and fitness challenges.",
+    "features": ["High-quality gear", "Nutritious snacks", "Workout plans"]
+  },
+  {
+    "id": "4",
+    "thumbnail": "https://picsum.photos/seed/book/800/600",
+    "name": "Bibliophile's Retreat",
+    "category": "Books & Literature",
+    "price": 19.99,
+    "frequency": "Monthly",
+    "description": "A new release hardcover book plus bookish treats like bookmarks, candles, and tea. Perfect for your cozy reading nights.",
+    "features": ["New release hardcover", "Bookish accessories", "Exclusive author notes"]
+  },
+  {
+    "id": "5",
+    "thumbnail": "https://picsum.photos/seed/tech/800/600",
+    "name": "Gadget Geek Box",
+    "category": "Technology",
+    "price": 49.99,
+    "frequency": "Monthly",
+    "description": "The latest tech gadgets, accessories, and smart home devices. Stay ahead of the curve with our curated tech selection.",
+    "features": ["Latest gadgets", "Tech accessories", "Smart home items"]
+  },
+  {
+    "id": "6",
+    "thumbnail": "https://picsum.photos/seed/art/800/600",
+    "name": "Creative Canvas",
+    "category": "Art & Craft",
+    "price": 34.99,
+    "frequency": "Monthly",
+    "description": "High-quality art supplies and a guided project to spark your creativity. Suitable for beginners and experienced artists alike.",
+    "features": ["Premium supplies", "Step-by-step project", "Online community access"]
+  }
+]
